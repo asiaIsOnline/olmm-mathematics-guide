@@ -3,28 +3,30 @@ A sequential learning guide, topic outline for career fields, and resource refer
 <img src="./assets/online-learning-made-manageable-banner.png" alt="Online Learning Made Manageable Mathematics Banner">
 
 ## Overview
-* Guide Summary
-* Subjects
-    * Arithmetic
-    * Algebra
-    * Geometry 
-    * Trigonometry
-    * Calculus
-    * Statistics & Probability
-* Career Exploration
-* References
-* Licensing
+* [Guide Summary](#guide-summary)
+* [Subjects](#subjects)
+    * [Arithmetic](#arithmetic)
+    * [Algebra](#algebra)
+    * [Geometry](#geometry)
+    * [Trigonometry](#trigonometry)
+    * [Calculus](#calculus)
+    * [Statistics & Probability](#statistics--probability)
+* [Career Exploration](#career-exploration)
+* [References](#references)
+* [Licensing](#licensing)
 
 ## Guide Summary
 This guide is an ever-growing resource for those wishing to learn new concepts, develop their pre-existing knowledge, and better understand how what subjects are necessary to pursue different career fields. 
 
 This README file acts as the central hub that will provide access to more comprehensive pages related to individual subjects and career exploration. Within the reference section of this page, there will be general learning resources while individual pages will offer more specified information. 
 
-My goal with Online Learning Made Manageable is to provide access to knowledge through resources available online including videos, books, online courses, blogs, and more. This specific guide centers on mathematics, but I hope to expand it to other subjects such as science, language arts, history, etc. To keep track of the future plans for this guide and any other future guides check out the [OLMM Trello Board](https://trello.com/invite/b/PzpnWFuP/ATTI13a13b80f7dd0fcbc5161814766a7e8266211E25/olmm).
+My goal with Online Learning Made Manageable is to provide access to knowledge through resources available online including videos, books, online courses, blogs, and more. 
+
+This specific guide centers on mathematics, but I hope to expand it to other subjects such as science, language arts, history, etc. To keep track of the future plans for this guide and any other future guides check out the [OLMM Trello Board](https://trello.com/invite/b/PzpnWFuP/ATTI13a13b80f7dd0fcbc5161814766a7e8266211E25/olmm).
 
 ## Subjects
 ### Arithmetic
-**Arithmetic** is a foundational field of study for all mathematic pathways and provides basic to advanced operations for manipulating numbers. The concepts covered in this field of study are typically taught and mastered between grades K-8 and cover some of the following concepts:
+[**Arithmetic**](./subject-pages/arithmetic.md) is a foundational field of study for all mathematic pathways and provides basic to advanced operations for manipulating numbers. The concepts covered in this field of study are typically taught and mastered between grades K-8 and cover some of the following concepts:
 * Counting
 * Natural Numbers
 * Addition, Subtraction, Multiplication, Division
@@ -133,6 +135,7 @@ While basic concepts pertaining to statistics and probability are covered as ear
 *Coming soon.*
 
 ## References
+* Mathematical Terminology
 ### Videos
 * [The Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&t=164s)
 
